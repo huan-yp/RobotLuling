@@ -1,0 +1,16 @@
+{ 
+    "characters":{
+        "chair":{
+            "character_external_id": "sWmJWP54MljfcCu2yAhqI3azaCwYUIVBmfX3wZX6fB0", 
+            "history_external_id": "6dU1WNHBrZMmmiIQV90gCeOV0KTJk3LaTc0pNFlI-fA", 
+            "tgt": "internal_id:10732:83983e05-a4be-4267-bcd5-a74b2131de70"
+        },
+        "鹿灵":{
+            
+        },
+        "ship AI":{
+            
+        }
+    },
+    "authorization":"Token 45ee71036d869b83fb52fc042a36a7addbad266c"
+}
